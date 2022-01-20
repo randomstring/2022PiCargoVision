@@ -1,3 +1,5 @@
+Note: This builds with 2022 WPILib tools, but as of yet untested on the WPILibPi images.
+
 ===================
 Building on desktop
 ===================
